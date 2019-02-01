@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl:  /brice-chevallier-portfolio
+exclude: ['README.md']
